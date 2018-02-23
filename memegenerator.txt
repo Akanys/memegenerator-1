@@ -1,0 +1,27 @@
+Bonjour à tous,
+
+
+Les groupes pour le projet :
+
+
+Dimitry - Cynthia - Brigitte - Nicola -  Clément
+Yoann - Julie Dietsch  - Eva - Samia
+Benjamin - Rémi - Jean-Christophe - Quentin
+
+
+
+Sur le principe de https://imgflip.com/memegenerator
+
+Vous devez mettre au point un générateur de même. 
+A partir d’un support image ou texte, l’utilisateur devra pouvoir uploader une image ou en choisir une dans une liste puis ajouter un contenu texte pour le transformer en meme.
+
+L’image générée devra être sauvegardée en base de donnée et accessible à partir d'une adresse url, 
+
+Le résultat devra être partageable sur les réseaux sociaux (facebook et twitter mini)
+La page d’accueil doit lister les derniers memes créés en dessous du formulaire de création.
+
+
+Livraison le 22 décembre 2017 à 15h30 : dépôt GitHub + Version fonctionnelle sur promo-4.
+
+
+Bonne chance à tous,
